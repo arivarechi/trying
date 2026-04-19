@@ -1,0 +1,4 @@
+{"path":"Baseplate","position":"0.00, -8.00, 0.00","anchored":true,"class":"Part","material":"Plastic","size":"2048.00, 16.00, 2048.00"}
+{"class":"Texture","path":"Baseplate.Texture"}
+{"path":"SpawnLocation","position":"0.00, 0.50, 0.00","anchored":true,"class":"SpawnLocation","material":"Plastic","size":"12.00, 1.00, 12.00"}
+{"class":"Decal","path":"SpawnLocation.Decal"}
