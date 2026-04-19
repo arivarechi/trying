@@ -1,4 +1,4 @@
-{"path":"Baseplate","position":"0.00, -8.00, 0.00","anchored":true,"class":"Part","material":"Plastic","size":"2048.00, 16.00, 2048.00"}
+{"path":"Baseplate","canCollide":true,"color":"0.3569, 0.3569, 0.3569","class":"Part","position":"0.0000, -8.0000, 0.0000","orientation":"0.0000, 0.0000, 0.0000","material":"Plastic","anchored":true,"size":"2048.0000, 16.0000, 2048.0000"}
 {"class":"Texture","path":"Baseplate.Texture"}
-{"path":"SpawnLocation","position":"0.00, 0.50, 0.00","anchored":true,"class":"SpawnLocation","material":"Plastic","size":"12.00, 1.00, 12.00"}
+{"path":"SpawnLocation","canCollide":true,"color":"0.6392, 0.6353, 0.6471","class":"SpawnLocation","position":"0.0000, 0.5000, 0.0000","orientation":"0.0000, 0.0000, 0.0000","material":"Plastic","anchored":true,"size":"12.0000, 1.0000, 12.0000"}
 {"class":"Decal","path":"SpawnLocation.Decal"}
